@@ -37,7 +37,7 @@ const (
 	shareErrorDeleting = "error_deleting"
 	shareAvailable     = "available"
 
-	shareDescription = "provisioned-by=manila.csi.openstack.org"
+	shareDescription = "provisioned-by=aaaaaa.csi.openstack.org"
 )
 
 // getOrCreateShare first retrieves an existing share with name=shareName, or creates a new one if it doesn't exist yet.
